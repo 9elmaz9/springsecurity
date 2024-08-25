@@ -1,7 +1,7 @@
-# springsecurity
+# Spring Security Overview
 
 ![springsecurity](https://www.oneupweb.com/wp-content/uploads/2019/12/20191217_OUW_CyberSecurity1.gif)
-# Spring Security Overview
+
 
 Spring Security is a comprehensive and powerful framework for securing Java applications. It provides a robust suite of features for handling authentication, authorization, and protecting applications from common security threats like Cross-Site Request Forgery (CSRF), Session Fixation, and more. As with any active open-source project, Spring Security evolves over time, introducing new features, deprecating older ones, and refining best practices to align with the latest security standards.
 
